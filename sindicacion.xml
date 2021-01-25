@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+	<title>Manuel Aranda</title>
+	<link href="https://666maal999.github.io/Hosting/"/>
+	<updated>2021-01-25T16:00:00Z</updated>
+	<author>
+		<name>Manuel Aranda</name>
+		<email>manuel.aranda1197@gmial.com</email>
+	</author>
+	<id>https://666maal999.github.io/Hosting/#top</id>
+	<subtitle>Portfolio personal de Manuel Aranda donde se ven los últimos trabajos</subtitle>
+	<entry>
+		<title>Modelado y Bocetos</title>
+		<updated>2021-01-25T16:00:00Z</updated>
+		<id>https://666maal999.github.io/Hosting/#modelado</id>
+		<content>Aquí podemos observar algunos ejemplos de modelados, logos, bocetos etc...realizados durante 2020</content>
+		<author>
+			<name>Manuel Aranda</name>
+			<email>manuel.aranda1197@gmial.com</email>
+		</author>
+		<link type="text/html" href="https://666maal999.github.io/Hosting/#modelado"/>
+	</entry>
+	<entry>
+		<title>Post-Producción</title>
+		<updated>2021-01-25T16:00:00Z</updated>
+		<id>https://666maal999.github.io/Hosting/#top</id>
+		<content>Aquí podemos observar algunos ejemplos de post-produccion realizados durante 2020</content>
+		<author>
+			<name>Manuel Aranda</name>
+			<email>manuel.aranda1197@gmial.com</email>
+		</author>
+		<link type="text/html" href="https://666maal999.github.io/Hosting/#pospo"/>
+	</entry>
+
+
+</feed>
